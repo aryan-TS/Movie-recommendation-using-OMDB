@@ -1,0 +1,11 @@
+1)Install required packages
+pip install flask requests pandas scikit-learn python-dotenv
+
+2)Create and activate virtual environment
+python -m venv env
+Windows: env\Scripts\activate
+
+3)Run the application
+python app.py
+
+4)Go to Go to http://127.0.0.1:5000/ to access the application
